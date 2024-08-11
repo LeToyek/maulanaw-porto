@@ -7,28 +7,28 @@ const servicesData = [
   {
     id: 1,
     icon: "images/service-1.svg",
-    title: "UI/UX design",
+    title: "Mobile App Development",
     content:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.",
-    color: "#6C6CE5",
-    contentColor: "light",
+      "Create beautiful and intuitive mobile apps that work perfectly on Android phones, making every user experience delightful and engaging.",
+    color: "#F9D74C",
+    contentColor: "dark",
   },
   {
     id: 2,
     icon: "images/service-2.svg",
     title: "Web Development",
     content:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.",
-    color: "#F9D74C",
-    contentColor: "dark",
+    "Build good looking websites that work flawlessly on any device, whether it's a phone, tablet, or computer.",
+    color: "#F97B8B",
+    contentColor: "light",
   },
   {
     id: 3,
     icon: "images/service-3.svg",
-    title: "Photography",
+    title: "AI Development",
     content:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo ligula eget.",
-    color: "#F97B8B",
+    "Develop custom machine learning models that help you make better decisions and uncover valuable insights.",
+    color: "#6C6CE5",
     contentColor: "light",
   },
 ];

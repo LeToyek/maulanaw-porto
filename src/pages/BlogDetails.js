@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from "react";
 import Markdown from "markdown-to-jsx";
-import Disqus from "disqus-react";
+import React, { useEffect, useState } from "react";
 import Header from "../components/layouts/Header";
 
 function BlogDetails(props) {
@@ -54,12 +53,12 @@ function BlogDetails(props) {
           <div className="container">
             <div className="blog-single shadow-dark p-30">
               <Markdown>{content}</Markdown>
-              <div className="mi-blog-details-comments mt-30">
+              {/* <div className="mi-blog-details-comments mt-30">
                 <Disqus.DiscussionEmbed
                   shortname={disqusShortname}
                   config={disqusConfig}
                 />
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

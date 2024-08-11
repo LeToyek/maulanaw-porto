@@ -28,7 +28,7 @@ function Header({ light, logoSource, toggleMenu, headerToggler }) {
   return (
     <>
       <header className={handleMobileClasses()}>
-        <div className="container">
+        <div className="container d-flex justify-content-between align-items-center mt-4 ml-2 mr-2">
           <div className="menu-icon d-inline-flex mr-4">
             <button onClick={headerToggler}>
               <span></span>
