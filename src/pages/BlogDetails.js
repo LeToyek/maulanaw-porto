@@ -4,7 +4,6 @@ import Header from "../components/layouts/Header";
 
 function BlogDetails(props) {
   const [content, setContent] = useState("");
-  const blogId = props.match.params.id;
   const blogFile = props.match.params.title;
 
   useEffect(() => {
@@ -17,12 +16,6 @@ function BlogDetails(props) {
       });
   }, [content, blogFile]);
 
-  const disqusShortname = "bolby"; //found in your Disqus.com dashboard
-  const disqusConfig = {
-    url: "https://jthemes.net/themes/react/bolby", //Homepage link of this site.
-    identifier: blogId,
-    title: blogFile,
-  };
 
   const [toggleMenu, setToggleMenu] = useState(false);
 
