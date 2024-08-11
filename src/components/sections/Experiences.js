@@ -5,48 +5,42 @@ import Timeline from "../elements/Timeline";
 const educationData = [
   {
     id: 1,
-    title: "Acamedic Degree",
-    years: "2019 - Present",
+    title: "Politeknik Negeri Malang",
+    years: "2021 - Present",
     content:
       "Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.",
   },
   {
     id: 2,
-    title: "Bachelor’s Degree",
-    years: "2017 - 2013",
+    title: "SMAN 1 Lawang",
+    years: "2018 - 2021",
     content:
-      "Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.",
+      "Natural Science",
   },
-  {
-    id: 3,
-    title: "Honours Degree",
-    years: "2013 - 2009",
-    content:
-      "Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.",
-  },
+  
 ];
 
 const experienceData = [
   {
-    id: 1,
-    title: "Web Designer",
-    years: "2019 - Present",
+    id: 3,
+    title: "Data Scientist",
+    years: "Present",
     content:
-      "Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.",
+    "Building a machine learning pipeline and doing research about machine sensor in manufacturing industry.",
+  },
+  {
+    id: 1,
+    title: "Web Developer",
+    years: "2023 - Present",
+    content:
+      "Developing several websites for clients and companies. Mostly working on admin dashboard web apps.",
   },
   {
     id: 2,
-    title: "Front-End Developer",
-    years: "2017 - 2013",
+    title: "Mobile App Developer",
+    years: "2022 - Present",
     content:
-      "Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.",
-  },
-  {
-    id: 3,
-    title: "Back-End Developer",
-    years: "2013 - 2009",
-    content:
-      "Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.",
+      "Build mobile apps for clients using flutter and firebase as backend.",
   },
 ];
 
