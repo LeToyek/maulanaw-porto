@@ -10,27 +10,6 @@ const aboutContent = {
     "I'm Maulana Arif Wijaya, a Computer Engineering student. I've excelled in national tech competitions, including winning multiple first-place awards in software and mobile app development. Currently, I'm developing web applications and machine learning solutions in my internship. I also work as a freelance web developer and data science. Let's connect to explore opportunities or discuss innovative tech projects.",
 };
 
-const progressData = [
-  {
-    id: 1,
-    title: "Development",
-    percantage: 85,
-    progressColor: "#FFD15C",
-  },
-  {
-    id: 2,
-    title: "UI/UX Design",
-    percantage: 95,
-    progressColor: "#FF4C60",
-  },
-  {
-    id: 3,
-    title: "Photography",
-    percantage: 70,
-    progressColor: "#6C6CE5",
-  },
-];
-
 const counterData = [
   {
     id: 1,
