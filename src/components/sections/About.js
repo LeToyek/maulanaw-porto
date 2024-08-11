@@ -78,7 +78,7 @@ function About() {
                   <p>{aboutContent.content}</p>
                   <strong>Mobile App Developer . Web Developer . IOT Developer . Data Scientist </strong>
                   <div className="mt-3">
-                    <a href="!#" className="btn btn-default">
+                    <a href="https://firebasestorage.googleapis.com/v0/b/porto-3872d.appspot.com/o/Maulana%20Arif%20Wijaya-resume%20(6).pdf?alt=media&token=a25cb29c-60e9-4e7f-abeb-b62bf7fadd2c" className="btn btn-default">
                       Download CV
                     </a>
                   </div>
