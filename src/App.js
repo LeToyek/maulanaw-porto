@@ -1,17 +1,17 @@
 import React from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Homepage from "./pages/Homepage";
-import HomepageLight from "./pages/HomepageLight";
-import HomepageDark from "./pages/HomepageDark";
-import Homepage2 from "./pages/Homepage2";
-import Homepage2Light from "./pages/Homepage2Light";
-import Homepage2Dark from "./pages/Homepage2Dark";
-import Homepage3 from "./pages/Homepage3";
-import Homepage3Light from "./pages/Homepage3Light";
-import Homepage3Dark from "./pages/Homepage3Dark";
-import Bloglist from "./pages/Bloglist";
-import BlogDetails from "./pages/BlogDetails";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "./App.scss";
+import BlogDetails from "./pages/BlogDetails";
+import Bloglist from "./pages/Bloglist";
+import Homepage from "./pages/Homepage";
+import Homepage2 from "./pages/Homepage2";
+import Homepage2Dark from "./pages/Homepage2Dark";
+import Homepage2Light from "./pages/Homepage2Light";
+import Homepage3 from "./pages/Homepage3";
+import Homepage3Dark from "./pages/Homepage3Dark";
+import Homepage3Light from "./pages/Homepage3Light";
+import HomepageDark from "./pages/HomepageDark";
+import HomepageLight from "./pages/HomepageLight";
 
 function App() {
   return (

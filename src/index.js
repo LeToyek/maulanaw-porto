@@ -1,11 +1,12 @@
+import "animate.css/animate.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 import React from "react";
 import ReactDOM from "react-dom";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "animate.css/animate.min.css";
+import "slick-carousel/slick/slick.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
+
 
 ReactDOM.render(
   <React.StrictMode>
