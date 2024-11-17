@@ -2,3 +2,4 @@
 
 ### E-Report: Interactive Smartform for Reporting Activities
 
+![Raw](/images/blog/raws/Ereport.jpg)

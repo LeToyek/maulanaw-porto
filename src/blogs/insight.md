@@ -5,6 +5,8 @@
 
 Insight offers a comprehensive solution for monitoring and analyzing manufacturing data in real-time. It provides valuable insights that help businesses enhance productivity, reduce downtime, and improve overall performance. By leveraging advanced technologies, Insight ensures that you stay ahead in the industry with accurate and timely information.
 
+![Raw](/images/blog/raws/Insight.jpg)
+
 ### Key Features of Insight
 
 - **Real-time Chart Generation**: Generate charts that display real-time data.
