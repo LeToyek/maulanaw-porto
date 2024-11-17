@@ -28,6 +28,7 @@ Technology used in this project:
 
 | Feature | Technology |
 |------------|-------------|
+|------------|-------------|
 | IOT        | Arduino, Firebase Realtime Database|
 | Mobile App         | Flutter, TF Lite |
 | Machine Learning    | Python, Tensorflow, CNN |

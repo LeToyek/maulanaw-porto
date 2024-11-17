@@ -22,6 +22,7 @@ Technology used in this project:
 
 | Feature | Technology |
 |------------|-------------|
+|------------|-------------|
 | Mobile App         | Flutter |
 | Machine Learning    | Python, Tensorflow, CNN, Open CV |
 | Cloud | Firebase, Google Cloud Platform (VM Instance) |

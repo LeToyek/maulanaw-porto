@@ -20,6 +20,7 @@ Technology used in this project:
 
 | Feature | Technology |
 |------------|-------------|
+|------------|-------------|
 | IOT        | Arduino, Classic Bluetooth Connection |
 | Mobile App         | Flutter, Classic Bluetooth Connection |
 | Machine Learning    | Python, Tensorflow, LSTM |
